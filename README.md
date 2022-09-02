@@ -13,7 +13,7 @@ It is useful for the MCUs that have a few GPIOs.
 
 ## How to assemble
 
-Solder the included 1x05 pin socket into the following place below:
+Solder the included 1x03 pin socket into the following place below:
 ![](./img/img.png)
 
 ## Sample program
