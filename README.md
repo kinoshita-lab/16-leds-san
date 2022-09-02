@@ -4,7 +4,7 @@
 
 16-LEDs-san is a handy PCB with 16 cascaded neopixel-comapible LEDs.
 You can also cascade same PCBs.
-It is useful for the MCUs that have a few GPIOs.
+It is useful for the MCUs that have few GPIOs.
 
 ## Kit contents
 
