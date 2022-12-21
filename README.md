@@ -1,4 +1,4 @@
-# 16LEDs-san
+# 16-LEDs-san
 
 ## PCB board with 16 NeoPixel LEDs
 
